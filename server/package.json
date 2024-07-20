@@ -1,0 +1,16 @@
+{
+    "name": "bakend",
+    "version": "1.0.0",
+    "description": "this is a backend of internshala",
+    "main": "index.js",
+    "scripts": {
+        "test": "nodemon index.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.19.2",
+        "nodemon": "^3.0.3"
+    },
+    "author": "aditi",
+    "licence": "ISC"
+}
